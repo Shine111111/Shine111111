@@ -1,63 +1,50 @@
-# Hi there, I'm Shayan 👋
+# Hi there, I'm Shayan
 
-I'm a student developer passionate about building cool web apps and exploring new technologies. I enjoy turning ideas into real projects — from hackathon sprints to personal portfolio builds.
-
-- �� Currently studying Computer Science
-- 🔭 I'm currently working on web development projects
-- 🌱 I'm currently learning React, Python (FastAPI), and full-stack development
-- 💬 Ask me about HTML/CSS, JavaScript, React, or Python
-- ⚡ Fun fact: I built a full-stack app in 24 hours at a hackathon!
+I'm a software engineering student at McGill Universty and passionate about learning and making new tools with what I learn.
 
 ---
 
-## 🛠️ Tech Stack
+## Experiences:
 
-**Languages:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Infrasec and DevOps Intern @ <img src="data:image/png;base64,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" alt="BDC" height="30">
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+Data Science and Management Intern @ <img src="data:image/png;base64,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" alt="Bombardier" height="30">
 
 ---
 
-## 🚀 Projects
+## Tech Stack I have used so far:
 
-### 🏥 [McHacks — ED Experience App](https://github.com/Shine111111/Mchacks404PageNotFound)
-> Built at **McHacks 2025** (McGill's annual hackathon) in January 2025
+**Languages & Scripting:**  
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="20"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20"> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="20"> 
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" height="20"> 
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" height="20"> 
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" alt="YAML" height="20"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="20"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20"> 
+<img src="https://img.shields.io/badge/TypeScript-white?logo=typescript" alt="TypeScript" height="20" >
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="20"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="20"> 
+<img src="https://img.shields.io/badge/ARM%20Assembly-009999?style=flat" alt="ARM Assembly" height="20"> 
+<img src="https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white" alt="OCaml" height="20">
 
-A full-stack web application designed to improve the Emergency Department experience for patients and staff. It features a real-time **queue management system** and an **education resource router** to help patients understand their care while they wait.
 
-- **Frontend:** React (with Recharts for data visualization)
-- **Backend:** Python + FastAPI with RESTful API routes
-- ⭐ 1 star | 🍴 2 forks
+
+**Systems & Tools:**  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="20"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"> 
+<img src="https://img.shields.io/badge/TSQL-CC2927?style=flat" alt="TSQL" height="20"> 
+<img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white" alt="Azure Pipelines" height="20"> 
+<img src="https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure SQL Database" height="20"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="20"> 
+<img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=flat" alt="REST APIs" height="20"> 
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height="20"> 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" height="20"> 
+<img src="https://img.shields.io/badge/Umple-FF6600?style=flat" alt="Umple" height="20">
 
 ---
 
-### 🌐 [Basic Portfolio Website](https://github.com/Shine111111/basic-portfolio-website)
-> Personal project — January 2025
+## Contacts
 
-A personal portfolio website built with plain HTML & CSS, showcasing small web projects including a **movie ranking page** and a **birthday invite page**. This was one of my first steps into web development.
-
-- **Tech:** HTML5, CSS3
-- Features an About Me page and a Contact page
-
----
-
-## 📊 GitHub Stats
-
-![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shine111111&show_icons=true&theme=default&hide_border=true)
-
----
-
-## 📫 How to Reach Me
-
-Feel free to reach out through GitHub or connect with me on LinkedIn. I'm always open to collaborating on interesting projects!
-
-<!-- Update with your actual links when ready:
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: your-email@example.com
--->
+You can reach out to me on [linkedIn](https://www.linkedin.com/in/shayan-yamanidouzi-sorkhabi/) and my [email](mailto:shayan.yamanidouzisorkhabi@mail.mcgill.ca)
