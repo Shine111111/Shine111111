@@ -8,7 +8,7 @@ I'm a software engineering student at McGill Universty and passionate about lear
 
 Infrasec and DevOps Intern @ <img src="https://www.bdc.ca/assets/icons/bdc_logo.svg" alt="BDC" height="30">
 
-Data Science and Management Intern @ <img src="https://cdn.imgbin.com/7/7/24/bombardier-logo-gcSA6RvK.jpg" alt="Bombardier" height="30">
+Data Science and Management Intern @ <img src="https://bombardier.com/sites/default/files/inline-images/Bombardier_h_rgb_k.png" alt="Bombardier" height="30">
 
 ---
 
