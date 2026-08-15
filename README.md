@@ -1,6 +1,6 @@
 # Hi there, I'm Shayan
 
-I'm a software engineering student at McGill Universty and passionate about learning and making new tools with what I learn.
+I'm a software engineering student at McGill University and passionate about learning and making new tools with what I learn.
 
 ---
 
@@ -28,6 +28,8 @@ Data Science and Management Intern @ <img src="https://img.shields.io/badge/Bomb
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="20"> 
 <img src="https://img.shields.io/badge/ARM%20Assembly-009999?style=flat" alt="ARM Assembly" height="20"> 
 <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white" alt="OCaml" height="20">
+<img src="https://img.shields.io/badge/c%2B%2B-%2300599C?logo=c%2B%2B" alt="Cplusplus" height="20">
+
 
 
 
